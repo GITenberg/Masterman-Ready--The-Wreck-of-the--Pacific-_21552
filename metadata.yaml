@@ -20,6 +20,8 @@ description: "Masterman Ready, or the Wreck of the Pacific is a robinsonade chil
   \ novel published in 1841 by Frederick Marryat. The book follows the adventures\
   \ of the Seagrave family who are shipwrecked at sea, and survive on a desert island\
   \ with the assistance of veteran sailor Masterman Ready.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21552#Masterman-Ready--The-Wreck-of-the--Pacific-
 gutenberg_issued: '2007-05-21'
 gutenberg_type: Text
 identifiers:
